@@ -19,6 +19,7 @@ I'm a web developer passionate about building clean, responsive, and user-friend
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Damirrrrnn)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damir-rakhymberdi-657b353c4/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/damirrrn_/)
 
 
 
@@ -36,6 +37,11 @@ I'm a web developer passionate about building clean, responsive, and user-friend
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 > “Stay curious. Keep building.” 🚀
+
+
+
+## 🌐 Socials:
+
 
 
 
