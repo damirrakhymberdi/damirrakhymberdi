@@ -34,7 +34,11 @@ I'm a web developer passionate about building clean, responsive, and user-friend
 ![](https://github-profile-trophy.vercel.app/?username=damirrakhymberdi&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 
-## 📂 Featured Projects - 🌐 [Personal Portfolio Website](https://username.github.io/portfolio/) - 📰 [News Blog Website](https://username.github.io/news-site/) - 🛒 [Mini E-Commerce Store](https://username.github.io/shop/) - 🎮 [JavaScript Mini Game](https://username.github.io/game/) ---
+## 📂 Featured Projects 
+  -🌐 [Personal Portfolio Website](https://damirrakhymberdi.github.io/My_portfolio/) 
+  -📰 [Bas-relief](https://damirrakhymberdi.github.io/Project_berelef/) 
+  -🛒 [Taraz city](https://username.github.io/shop/) 
+  -🚗 [BMW site](https://damirrakhymberdi.github.io/BMW-web-site/) ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 > “Stay curious. Keep building.” 🚀
