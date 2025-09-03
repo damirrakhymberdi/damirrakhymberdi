@@ -15,6 +15,14 @@ I'm a web developer passionate about building clean, responsive, and user-friend
 
 ---
 
+## 📂 Featured Projects 
+  - 🌐 [Personal Portfolio Website](https://damirrakhymberdi.github.io/My_portfolio/) 
+  - 📰 [Bas-relief](https://damirrakhymberdi.github.io/Project_berelef/) 
+  - 🛒 [Taraz city](https://username.github.io/shop/) 
+  - 🚗 [BMW site](https://damirrakhymberdi.github.io/BMW-web-site/) 
+  
+---
+
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Damirrrrnn)
@@ -33,12 +41,6 @@ I'm a web developer passionate about building clean, responsive, and user-friend
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=damirrakhymberdi&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-
-## 📂 Featured Projects 
-  -🌐 [Personal Portfolio Website](https://damirrakhymberdi.github.io/My_portfolio/) 
-  -📰 [Bas-relief](https://damirrakhymberdi.github.io/Project_berelef/) 
-  -🛒 [Taraz city](https://username.github.io/shop/) 
-  -🚗 [BMW site](https://damirrakhymberdi.github.io/BMW-web-site/) ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 > “Stay curious. Keep building.” 🚀
