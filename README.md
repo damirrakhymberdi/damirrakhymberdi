@@ -38,7 +38,11 @@ I'm a web developer passionate about building clean, responsive, and user-friend
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 > “Stay curious. Keep building.” 🚀
 
-
+## 📂 Featured Projects
+- 🌐 Personal Portfolio Website (https://nur1slam20.github.io/Portfolio/)  
+- 📰 Cafe Website  
+- 🛒 Mini E-Commerce Store (https://nur1slam20.github.io/shop/)  
+- 🎮 JavaScript Mini Game  
 
 ## 🌐 Socials:
 
