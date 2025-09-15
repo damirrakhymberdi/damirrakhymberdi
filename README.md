@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Damir
 I'm a web developer passionate about building clean, responsive, and user-friendly websites.<br/>
 
-💻 I work with **HTML**, **CSS**, and **JavaScript** to create modern interfaces with smooth user experiences.<br/>
+💻 I work with **HTML**, **CSS**, **JavaScript**, and **Vue.js** to create modern interfaces with smooth user experiences.<br/>
 🔧 I enjoy turning ideas into real projects and constantly learning new tools and best practices in web development.<br/>
 🌱 I'm also exploring backend basics to better understand how full web applications work.<br/>
 
