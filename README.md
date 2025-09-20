@@ -20,7 +20,7 @@ I'm a web developer passionate about building clean, responsive, and user-friend
   - 🎴 [Bas-relief](https://damirrakhymberdi.github.io/Project_berelef/) 
   - 📰 [Taraz city](https://username.github.io/shop/) 
   - 🚗 [BMW site](https://damirrakhymberdi.github.io/BMW-web-site/) 
-  - [Resume](https://github.com/damirrakhymberdi/Resume.pdf/blob/main/Resume%20Damir%20Rahymberdi%20last.pdf)
+  - [Resume]([https://github.com/damirrakhymberdi/Resume.pdf/blob/main/Resume%20Damir%20Rahymberdi%20last.pdf](https://github.com/damirrakhymberdi/Resume-/blob/main/Resume%20Damir-Rahymberdi.pdf))
 ---
 
 
