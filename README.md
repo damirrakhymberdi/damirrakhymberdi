@@ -18,9 +18,9 @@ I'm a web developer passionate about building clean, responsive, and user-friend
 ## 📂 Featured Projects 
   - 🌐 [Personal Portfolio Website](https://damirrakhymberdi.github.io/My_portfolio/) 
   - 🎴 [Bas-relief](https://damirrakhymberdi.github.io/Project_berelef/) 
-  - 📰 [Taraz city](https://username.github.io/shop/) 
+  - 🌇 [Taraz city](https://username.github.io/shop/) 
   - 🚗 [BMW site](https://damirrakhymberdi.github.io/BMW-web-site/) 
-  - [Resume](https://github.com/damirrakhymberdi/Resume-/blob/main/Resume%20Damir-Rahymberdi.pdf)
+  - 📃 [Resume](https://github.com/damirrakhymberdi/Resume-/blob/main/Resume%20Damir-Rahymberdi.pdf)
 ---
 
 
