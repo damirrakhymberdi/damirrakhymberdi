@@ -113,9 +113,10 @@ A user management and analytics dashboard.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=damirrakhymberdi&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damirrakhymberdi&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
+<img src="https://img.shields.io/badge/Public%20Repositories-24-2ea44f?style=for-the-badge&logo=github" alt="Public Repositories">
+<img src="https://img.shields.io/badge/Frontend-Vue%20%7C%20React-42b883?style=for-the-badge&logo=javascript" alt="Frontend Stack">
+<img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=for-the-badge&logo=flutter" alt="Mobile Stack">
+<img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20NestJS-EF5350?style=for-the-badge&logo=server" alt="Backend Stack">
 
 </div>
 
