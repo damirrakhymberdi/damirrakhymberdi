@@ -1,55 +1,148 @@
-# 👋 Hi, I'm Damir
-I'm a web developer passionate about building clean, responsive, and user-friendly websites.<br/>
+<div align="center">
 
-💻 I work with **HTML**, **CSS**, **JavaScript**, and **Vue.js** to create modern interfaces with smooth user experiences.<br/>
-🔧 I enjoy turning ideas into real projects and constantly learning new tools and best practices in web development.<br/>
-🌱 I'm also exploring backend basics to better understand how full web applications work.<br/>
+# Привет, я Дамир 👋
+
+### Frontend Developer · Vue.js · React · Flutter
+
+<p>
+  <a href="https://github.com/damirrakhymberdi">
+    <img src="https://img.shields.io/github/followers/damirrakhymberdi?label=Followers&style=for-the-badge&color=181717" alt="Followers">
+  </a>
+  <a href="https://github.com/damirrakhymberdi?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-24-2ea44f?style=for-the-badge" alt="Repositories">
+  </a>
+  <a href="https://www.linkedin.com/in/damir-rakhymberdi-a07042306/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
+</div>
 
 ---
 
-### 🚀 My Focus
-- Responsive UI development  
-- JavaScript logic & DOM interaction  
-- Clean code & usability  
-- Learning APIs and simple backend concepts
+## 👨‍💻 About Me
+
+Мен заманауи, адаптивті және қолдануға ыңғайлы веб-қосымшалар жасайтын Frontend Developer-мін.
+
+- Vue.js және React арқылы интерфейстер жасаймын
+- REST API және backend жүйелерімен жұмыс істеймін
+- Dashboard, CRM, CMS және коммерциялық жобалар құрастырамын
+- Flutter арқылы мобильді қосымшалар әзірлеймін
+- Қазір clean code, TypeScript және full-stack development бағыттарын дамытып жүрмін
 
 ---
 
-## 📂 Featured Projects 
-  - 🌐 [Personal Portfolio Website](https://damirrakhymberdi.github.io/My_portfolio/) 
-  - 🎴 [Bas-relief](https://damirrakhymberdi.github.io/Project_berelef/) 
-  - 🌇 [Taraz city](https://username.github.io/shop/) 
-  - 🚗 [BMW site](https://damirrakhymberdi.github.io/BMW-web-site/) 
-  - 📃 [Resume](https://github.com/damirrakhymberdi/Resume-/blob/main/Resume%20Damir-Rahymberdi.pdf)
+## 🚀 Featured Projects
+
+### SkillGig
+
+Full-stack фриланс және қызмет көрсету платформасы.
+
+**Stack:** Vue 3 · FastAPI · Docker · SQLite/PostgreSQL · GitHub Actions
+
+[View Repository](https://github.com/damirrakhymberdi/Skillgig-2)
+
+### GP Group Corporate Portal
+
+CMS, admin panel және API жүйесі бар корпоративтік портал.
+
+**Stack:** React · Vite · Tailwind CSS · NestJS · PostgreSQL · JWT · S3
+
+[View Repository](https://github.com/damirrakhymberdi/Site-GP)
+
+### Zhekas Doner Application
+
+Flutter арқылы жасалған тамақтану орнына арналған мобильді қосымша.
+
+**Stack:** Flutter · Dart
+
+[View Repository](https://github.com/damirrakhymberdi/Zhekas_doner_application)
+
+### Analytical Dashboard
+
+Сатылымдарды талдауға арналған интерактивті аналитикалық панель.
+
+**Stack:** Nuxt 4 · Vue 3 · TypeScript · Pinia · Chart.js · Tailwind CSS
+
+[View Repository](https://github.com/damirrakhymberdi/Analytical-dashboard)
+
+### Internship Portal
+
+Студенттер мен компанияларға арналған internship платформасы.
+
+**Stack:** Vue 3 · Pinia · Axios · Vue Router · MockAPI
+
+[View Repository](https://github.com/damirrakhymberdi/Internship) · [Live Demo](https://intership-rose.vercel.app/)
+
+### BMW Website
+
+BMW брендіне арналған responsive landing page.
+
+**Stack:** HTML · CSS · JavaScript
+
+[View Repository](https://github.com/damirrakhymberdi/BMW-web-site)
+
+### Admin Dashboard
+
+Пайдаланушыларды басқару және аналитика панелі.
+
+**Stack:** React · React Router · Recharts · CSV Export
+
+[View Repository](https://github.com/damirrakhymberdi/Admin-Dashboard-React-)
+
+### Student Directory
+
+Студенттерді қосу, өзгерту, іздеу және өшіру мүмкіндіктері бар CRUD жүйесі.
+
+**Stack:** Vue 3 · Axios · Vue Router · MockAPI
+
+[View Repository](https://github.com/damirrakhymberdi/student-directory)
+
 ---
 
+## 🛠️ Tech Stack
 
-## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Damirrrrnn)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damir-rakhymberdi-a07042306/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/damirrrn_/)
+### Frontend
 
+`HTML` `CSS` `JavaScript` `TypeScript` `Vue.js` `Nuxt.js` `React` `Tailwind CSS`
 
+### Mobile
 
-# 💻 Tech Stack:
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=damirrakhymberdi&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=damirrakhymberdi&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+`Flutter` `Dart`
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=damirrakhymberdi&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+### Backend & Database
 
+`FastAPI` `NestJS` `PostgreSQL` `SQLite` `REST API`
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-> “Stay curious. Keep building.” 🚀
+### Tools
 
+`Git` `GitHub` `Docker` `Vite` `Pinia` `Figma`
 
-## 🌐 Socials:
+---
 
+## 📊 GitHub Statistics
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=damirrakhymberdi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damirrakhymberdi&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
 
+</div>
+
+---
+
+## 🌐 Contact Me
+
+- Telegram: [@Damirrrrnn](https://t.me/Damirrrrnn)
+- LinkedIn: [Damir Rakhymberdi](https://www.linkedin.com/in/damir-rakhymberdi-a07042306/)
+- Instagram: [@damirrrn_](https://www.instagram.com/damirrrn_/)
+- Email: `damirrahymberdi662@gmail.com`
+
+---
+
+<div align="center">
+
+### «Stay curious. Keep building.» 🚀
+
+</div>
