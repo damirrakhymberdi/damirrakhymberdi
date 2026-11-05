@@ -31,7 +31,7 @@ I am a Frontend Developer focused on building modern, responsive, and user-frien
 
 ## 🚀 Featured Projects
 
-### SkillGig
+### SkillGig-2
 
 A full-stack freelance and service marketplace platform.
 
@@ -86,14 +86,6 @@ A user management and analytics dashboard.
 **Stack:** React · React Router · Recharts · CSV Export
 
 [View Repository](https://github.com/damirrakhymberdi/Admin-Dashboard-React-)
-
-### Student Directory
-
-A CRUD application for managing, searching, editing, and deleting students.
-
-**Stack:** Vue 3 · Axios · Vue Router · MockAPI
-
-[View Repository](https://github.com/damirrakhymberdi/student-directory)
 
 ---
 
