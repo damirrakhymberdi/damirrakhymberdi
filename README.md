@@ -31,61 +31,72 @@ I am a Frontend Developer focused on building modern, responsive, and user-frien
 
 ## 🚀 Featured Projects
 
-### SkillGig-2
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A full-stack freelance and service marketplace platform.
+<h3>💼 SkillGig-2</h3>
+<p>A full-stack freelance and service marketplace platform.</p>
+<p><code>Vue 3</code> <code>FastAPI</code> <code>Docker</code> <code>PostgreSQL</code></p>
+<p><a href="https://github.com/damirrakhymberdi/Skillgig-2">View repository →</a></p>
 
-**Stack:** Vue 3 · FastAPI · Docker · SQLite/PostgreSQL · GitHub Actions
+</td>
+<td width="50%" valign="top">
 
-[View Repository](https://github.com/damirrakhymberdi/Skillgig-2)
+<h3>🏢 GP Group Corporate Portal</h3>
+<p>A corporate portal with a CMS, admin panel, and API system.</p>
+<p><code>React</code> <code>NestJS</code> <code>PostgreSQL</code> <code>S3</code></p>
+<p><a href="https://github.com/damirrakhymberdi/Site-GP">View repository →</a></p>
 
-### GP Group Corporate Portal
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A corporate portal with a CMS, admin panel, and API system.
+<h3>🌯 Zhekas Doner</h3>
+<p>A food ordering application built for mobile devices.</p>
+<p><code>Flutter</code> <code>Dart</code></p>
+<p><a href="https://github.com/damirrakhymberdi/Zhekas_doner_application">View repository →</a></p>
 
-**Stack:** React · Vite · Tailwind CSS · NestJS · PostgreSQL · JWT · S3
+</td>
+<td width="50%" valign="top">
 
-[View Repository](https://github.com/damirrakhymberdi/Site-GP)
+<h3>📊 Analytical Dashboard</h3>
+<p>An interactive dashboard for monitoring and analyzing sales data.</p>
+<p><code>Nuxt 4</code> <code>TypeScript</code> <code>Pinia</code> <code>Chart.js</code></p>
+<p><a href="https://github.com/damirrakhymberdi/Analytical-dashboard">View repository →</a></p>
 
-### Zhekas Doner Application
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A food ordering application built with Flutter.
+<h3>🎓 Internship Portal</h3>
+<p>An internship management platform for students and companies.</p>
+<p><code>Vue 3</code> <code>Pinia</code> <code>Axios</code> <code>MockAPI</code></p>
+<p><a href="https://github.com/damirrakhymberdi/Internship">Repository →</a> · <a href="https://intership-rose.vercel.app/">Live demo →</a></p>
 
-**Stack:** Flutter · Dart
+</td>
+<td width="50%" valign="top">
 
-[View Repository](https://github.com/damirrakhymberdi/Zhekas_doner_application)
+<h3>🚗 BMW Website</h3>
+<p>A responsive landing page inspired by the BMW brand.</p>
+<p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+<p><a href="https://github.com/damirrakhymberdi/BMW-web-site">View repository →</a></p>
 
-### Analytical Dashboard
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-An interactive dashboard for sales analytics.
+<h3>🧑‍💼 Admin Dashboard</h3>
+<p>A user management dashboard with analytics, charts, and CSV export.</p>
+<p><code>React</code> <code>React Router</code> <code>Recharts</code></p>
+<p><a href="https://github.com/damirrakhymberdi/Admin-Dashboard-React-">View repository →</a></p>
 
-**Stack:** Nuxt 4 · Vue 3 · TypeScript · Pinia · Chart.js · Tailwind CSS
-
-[View Repository](https://github.com/damirrakhymberdi/Analytical-dashboard)
-
-### Internship Portal
-
-An internship platform for students and companies.
-
-**Stack:** Vue 3 · Pinia · Axios · Vue Router · MockAPI
-
-[View Repository](https://github.com/damirrakhymberdi/Internship) · [Live Demo](https://intership-rose.vercel.app/)
-
-### BMW Website
-
-A responsive landing page created for the BMW brand.
-
-**Stack:** HTML · CSS · JavaScript
-
-[View Repository](https://github.com/damirrakhymberdi/BMW-web-site)
-
-### Admin Dashboard
-
-A user management and analytics dashboard.
-
-**Stack:** React · React Router · Recharts · CSV Export
-
-[View Repository](https://github.com/damirrakhymberdi/Admin-Dashboard-React-)
+</td>
+</tr>
+</table>
 
 ---
 
@@ -106,19 +117,6 @@ A user management and analytics dashboard.
 ### Tools
 
 `Git` `GitHub` `Docker` `Vite` `Pinia` `Figma`
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Public%20Repositories-24-2ea44f?style=for-the-badge&logo=github" alt="Public Repositories">
-<img src="https://img.shields.io/badge/Frontend-Vue%20%7C%20React-42b883?style=for-the-badge&logo=javascript" alt="Frontend Stack">
-<img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=for-the-badge&logo=flutter" alt="Mobile Stack">
-<img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20NestJS-EF5350?style=for-the-badge&logo=server" alt="Backend Stack">
-
-</div>
 
 ---
 
