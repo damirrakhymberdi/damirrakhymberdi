@@ -1,13 +1,10 @@
 <div align="center">
 
-# Привет, я Дамир 👋
+# Hi, I'm Damir 👋
 
 ### Frontend Developer · Vue.js · React · Flutter
 
 <p>
-  <a href="https://github.com/damirrakhymberdi">
-    <img src="https://img.shields.io/github/followers/damirrakhymberdi?label=Followers&style=for-the-badge&color=181717" alt="Followers">
-  </a>
   <a href="https://github.com/damirrakhymberdi?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-24-2ea44f?style=for-the-badge" alt="Repositories">
   </a>
@@ -22,13 +19,13 @@
 
 ## 👨‍💻 About Me
 
-Мен заманауи, адаптивті және қолдануға ыңғайлы веб-қосымшалар жасайтын Frontend Developer-мін.
+I am a Frontend Developer focused on building modern, responsive, and user-friendly web applications.
 
-- Vue.js және React арқылы интерфейстер жасаймын
-- REST API және backend жүйелерімен жұмыс істеймін
-- Dashboard, CRM, CMS және коммерциялық жобалар құрастырамын
-- Flutter арқылы мобильді қосымшалар әзірлеймін
-- Қазір clean code, TypeScript және full-stack development бағыттарын дамытып жүрмін
+- Building interfaces with Vue.js and React
+- Working with REST APIs and backend systems
+- Creating dashboards, CRM systems, CMS platforms, and commercial websites
+- Developing mobile applications with Flutter
+- Improving my skills in clean code, TypeScript, and full-stack development
 
 ---
 
@@ -36,7 +33,7 @@
 
 ### SkillGig
 
-Full-stack фриланс және қызмет көрсету платформасы.
+A full-stack freelance and service marketplace platform.
 
 **Stack:** Vue 3 · FastAPI · Docker · SQLite/PostgreSQL · GitHub Actions
 
@@ -44,7 +41,7 @@ Full-stack фриланс және қызмет көрсету платформ�
 
 ### GP Group Corporate Portal
 
-CMS, admin panel және API жүйесі бар корпоративтік портал.
+A corporate portal with a CMS, admin panel, and API system.
 
 **Stack:** React · Vite · Tailwind CSS · NestJS · PostgreSQL · JWT · S3
 
@@ -52,7 +49,7 @@ CMS, admin panel және API жүйесі бар корпоративтік п�
 
 ### Zhekas Doner Application
 
-Flutter арқылы жасалған тамақтану орнына арналған мобильді қосымша.
+A food ordering application built with Flutter.
 
 **Stack:** Flutter · Dart
 
@@ -60,7 +57,7 @@ Flutter арқылы жасалған тамақтану орнына арнал
 
 ### Analytical Dashboard
 
-Сатылымдарды талдауға арналған интерактивті аналитикалық панель.
+An interactive dashboard for sales analytics.
 
 **Stack:** Nuxt 4 · Vue 3 · TypeScript · Pinia · Chart.js · Tailwind CSS
 
@@ -68,7 +65,7 @@ Flutter арқылы жасалған тамақтану орнына арнал
 
 ### Internship Portal
 
-Студенттер мен компанияларға арналған internship платформасы.
+An internship platform for students and companies.
 
 **Stack:** Vue 3 · Pinia · Axios · Vue Router · MockAPI
 
@@ -76,7 +73,7 @@ Flutter арқылы жасалған тамақтану орнына арнал
 
 ### BMW Website
 
-BMW брендіне арналған responsive landing page.
+A responsive landing page created for the BMW brand.
 
 **Stack:** HTML · CSS · JavaScript
 
@@ -84,7 +81,7 @@ BMW брендіне арналған responsive landing page.
 
 ### Admin Dashboard
 
-Пайдаланушыларды басқару және аналитика панелі.
+A user management and analytics dashboard.
 
 **Stack:** React · React Router · Recharts · CSV Export
 
@@ -92,7 +89,7 @@ BMW брендіне арналған responsive landing page.
 
 ### Student Directory
 
-Студенттерді қосу, өзгерту, іздеу және өшіру мүмкіндіктері бар CRUD жүйесі.
+A CRUD application for managing, searching, editing, and deleting students.
 
 **Stack:** Vue 3 · Axios · Vue Router · MockAPI
 
@@ -143,6 +140,6 @@ BMW брендіне арналған responsive landing page.
 
 <div align="center">
 
-### «Stay curious. Keep building.» 🚀
+### “Stay curious. Keep building.” 🚀
 
 </div>
