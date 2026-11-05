@@ -113,9 +113,9 @@ A user management and analytics dashboard.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=damirrakhymberdi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=damirrakhymberdi&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damirrakhymberdi&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=damirrakhymberdi&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
 
 </div>
 
@@ -125,7 +125,6 @@ A user management and analytics dashboard.
 
 - Telegram: [@Damirrrrnn](https://t.me/Damirrrrnn)
 - LinkedIn: [Damir Rakhymberdi](https://www.linkedin.com/in/damir-rakhymberdi-a07042306/)
-- Instagram: [@damirrrn_](https://www.instagram.com/damirrrn_/)
 - Email: `damirrahymberdi662@gmail.com`
 
 ---
